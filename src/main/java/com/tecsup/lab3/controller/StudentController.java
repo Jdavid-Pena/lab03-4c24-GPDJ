@@ -2,6 +2,6 @@ package com.tecsup.lab3.controller;
 
 public class StudentController {
 	public static void main(String[] args) {
-	System.out.println("Hola a Todos");
+	System.out.println("Hola a Programadores");
 	}
 }
